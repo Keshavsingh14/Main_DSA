@@ -1,5 +1,4 @@
 package Stack;
-import java.util.*;
 class stack {
 
     // store elements of stack
